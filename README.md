@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Ulil
+## I'm a generalist who love to learn about code
+- 🌱 I’m currently learning Python and Scripting 
+- 💬 Ask me about How to increase productivity, dealing with repetitive jobs and project management.
+- 📫 How to reach me: contact@ulilalbab.web.id
 
 <!--
 **ulilalbab/ulilalbab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
