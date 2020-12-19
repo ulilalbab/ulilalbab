@@ -6,6 +6,9 @@
 - ⚡  I'm starting to codify articles that I wrote here: https://docs.ulilalbab.web.id/
 - 🔭 I'm working on project Learning Resources in Bahasa Indonesia for Industrial Engineering Student: http://lms.ulilalbab.web.id/ 
 
+[![Ulil's github stats](https://github-readme-stats.vercel.app/api?username=ulilalbab)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **ulilalbab/ulilalbab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
