@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Python and Scripting 
 - 💬 Ask me about How to increase productivity, dealing with repetitive jobs and project management.
 - 📫 How to reach me: contact@ulilalbab.web.id
-- ⚡ I'm starting to codify articles that I wrote here: https://docs.ulilalbab.web.id/ 
+- ⚡  I'm starting to codify articles that I wrote here: https://docs.ulilalbab.web.id/
+- 🔭 I'm working on project Learning Resources in Bahasa Indonesia for Industrial Engineering Student: http://lms.ulilalbab.web.id/ 
 
 <!--
 **ulilalbab/ulilalbab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
