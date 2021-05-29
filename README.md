@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ulil
-## I'm a Knowledge Industrialist|
+## I'm a Knowledge Industrialist
 - 🌱 I’m currently learning Python and Scripting 
 - 💬 Ask me about How to increase productivity, dealing with repetitive jobs and project management.
 - 📫 How to reach me: contact@ulilalbab.web.id
