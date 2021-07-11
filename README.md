@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ulil
 ## I'm a Knowledge Industrialist
-- 🌱 I’m currently learning Python and Scripting 
+- 🌱 I’m currently learning C# and .NET 
 - 💬 Ask me about How to increase productivity, dealing with repetitive jobs and project management.
 - 📫 How to reach me: contact@ulilalbab.web.id
 - ⚡  I'm starting to codify articles that I wrote here: https://docs.ulilalbab.web.id/
