@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Ulil
 ## I'm a Knowledge Industrialist
-- 🌱 I’m currently learning C# and .NET 
+- 🌱 I’m currently learning How to Build Things 
 - 💬 Ask me about How to increase productivity, dealing with repetitive jobs and project management.
 - 📫 How to reach me: contact@ulilalbab.web.id
-- ⚡  I'm starting to codify articles that I wrote here: https://docs.ulilalbab.web.id/
+- ⚡  I'm starting to codify articles that I wrote here: https://dev.ulilalbab.web.id/
 - 🔭 I'm working on project Learning Resources in Bahasa Indonesia for Industrial Engineering Student: http://lms.ulilalbab.web.id/ 
 
 [![Ulil's github stats](https://github-readme-stats.vercel.app/api?username=ulilalbab)](https://github.com/anuraghazra/github-readme-stats)
