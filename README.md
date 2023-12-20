@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning How to Build Things 
 - 💬 Ask me about How to increase productivity, dealing with repetitive jobs and project management.
 - 📫 How to reach me: contact@ulilalbab.web.id
-- ⚡  I'm starting to codify articles that I wrote here: https://dev.ulilalbab.web.id/
+- ⚡  I'm starting to codify articles that I wrote here: https://ulil.dev/
 - 🔭 I'm working on project Learning Resources in Bahasa Indonesia for Industrial Engineering Student: http://lms.ulilalbab.web.id/ 
 
 [![Ulil's github stats](https://github-readme-stats.vercel.app/api?username=ulilalbab)](https://github.com/anuraghazra/github-readme-stats)
